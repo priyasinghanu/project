@@ -1,6 +1,6 @@
 # NEW PROJECT
 
-This project created by local sysem
+This project created by local sysem.
 
 created by 
 Annu priya
